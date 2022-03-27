@@ -1,0 +1,45 @@
+body {
+	background-image: url('https://wallpaperaccess.com/full/5139921.png');
+}
+
+header {
+	text-align:center;
+}
+
+footer {
+	text-align:center; 
+	position: fixed; 
+	left: 0; 
+	bottom: 0; 
+	width: 100%; 
+	background-color: #efdcde; 
+	color: black;
+}
+
+h1 {
+	text-align:center;
+}
+
+h2 {
+	text-align:center;
+}
+
+h3 {
+	text-align:center;
+}
+
+h4 {
+	text-align:center;
+}
+
+h5 {
+	text-align:center;
+}
+
+h6 {
+	text-align:center;
+}
+
+p {
+	text-align:center;
+}
