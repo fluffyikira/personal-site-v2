@@ -1,8 +1,20 @@
-table{
+caption {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-bottom: 10px;
+}
+
+table {
 	border: 1px solid black;
 	border-collapse: collapse;
 	margin: 0px auto;
 	text-align:center;
+	width: 50%;
+}
+
+table:hover {
+	background-color: rgb(220, 254, 255);
 }
 
 thead {
@@ -10,12 +22,14 @@ thead {
 	border-collapse: collapse;
 }
 
-th{
+th {
 	border: 1px solid black;
 	border-collapse: collapse;
+	height: 30px;
 }
 
-td{
+td {
 	border: 1px solid black;
 	border-collapse: collapse;
+	height: 30px;
 }

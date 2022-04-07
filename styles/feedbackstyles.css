@@ -1,0 +1,18 @@
+form {
+    text-align: center;
+    padding-top: 30px;
+}
+
+div {
+    margin: 0px auto;
+    width: fit-content;
+    margin-top: 30px;
+    border: 2px solid black;
+    box-shadow: -2px 2px 4px blue;
+}
+
+h1 {
+    padding: 0 20px 0;
+    text-shadow: -2px 2px 3px rgb(139, 139, 139);
+}
+

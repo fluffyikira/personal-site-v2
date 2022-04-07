@@ -1,0 +1,41 @@
+summary {
+	text-align:center;
+}
+
+article {
+	text-align:center;
+}
+
+section {
+    text-align: center;
+    border: 2px solid red;
+    margin: 5px 70px 0;
+    padding: 0 20px 0;
+    outline: 5px solid powderblue;
+}
+
+.anime {
+    border: 2px dashed blue;
+}
+
+a:link {
+    color: rgb(255, 0, 0);
+}
+  
+a:visited {
+    color: rgb(119, 0, 255);
+}
+  
+a:hover {
+    color: hotpink;
+}
+  
+a:active {
+    color: blue;
+} 
+
+#footer {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
