@@ -33,3 +33,11 @@ td {
 	border-collapse: collapse;
 	height: 30px;
 }
+
+#table1 > tbody tr:nth-child(odd){
+	background-color: yellow;
+}
+
+#table3 > tbody tr:nth-child(even){
+	background-color: #54d1ff;
+}
