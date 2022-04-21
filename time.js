@@ -1,5 +1,5 @@
 	
-var timeLeft = 5;
+var timeLeft = 20;
 var count;
 
 window.hideLink = function hideLink()

@@ -1,3 +1,15 @@
+#ssn {
+	display: block; 
+	margin: 0 auto;
+	height: 200px;
+	width: 550px;
+	transition: height 6s ease 1s;
+}
+
+#ssn:hover {
+	height: 400px
+}
+
 body {
 	background-image: url('https://wallpaperaccess.com/full/5139921.png');
 	min-height: 400px;
